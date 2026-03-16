@@ -30,5 +30,6 @@ public class DemoLampara {
         System.out.println("Cambiando marca de la lampara...");
         mish2.setMarca("xiaomi");
         System.out.println("marca nueva "+mish2.getMarca());
+        System.out.println("hola");
     }
 }
